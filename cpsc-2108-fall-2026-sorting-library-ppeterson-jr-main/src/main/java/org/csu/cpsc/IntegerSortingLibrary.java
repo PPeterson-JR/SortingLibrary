@@ -54,7 +54,7 @@ public class IntegerSortingLibrary {
             leftTable = mergeSort(leftTable);
             rightTable = mergeSort(rightTable);
 
-            /* Adding Merge Method for Merge Sort here */
+            /* Adding Merge Method for Merge Sort here (DONE) */
             int leftTableIndex = 0;
             int rightTableIndex = 0;
             int arrayIndex = 0;
